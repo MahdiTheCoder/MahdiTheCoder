@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahdiTheCoder
 - 👀 I’m interested in machine learning and optimization
-- 🌱 I’m currently learning machine learning and optimization
+- 🌱 I’m currently learning machine learning and deep learning
 - 📫 How to reach me : mahdigko@gmail.com
 
 <!---
